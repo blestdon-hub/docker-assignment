@@ -1,0 +1,9 @@
+{
+  "name": "blestdon-docker-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js application for Docker deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
