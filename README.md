@@ -34,7 +34,7 @@ The image was successfully built and tagged as:
 
 ### Screenshot 1 – Successful Docker Build
 
-![Docker Build](screenshots/01-docker-build.png)
+![Docker Build](01-docker-build.png)
 
 ## 4. Docker Hub
 
@@ -44,7 +44,7 @@ The Docker image was pushed to Docker Hub with the tag:
 
 ### Screenshot 2 – Docker Hub Image and Tag
 
-![Docker Hub Image and Tag](screenshots/02-docker-hub.png)
+![Docker Hub Image and Tag](02-docker-hub.png)
 
 ## 5. Running Docker Container
 
@@ -54,7 +54,7 @@ The application was exposed on port 3000.
 
 ### Screenshot 3 – Running Docker Container
 
-![Docker Container](screenshots/03-running-container.png)
+![Docker Container](03-running-container.png)
 
 ## 6. Live Application
 
@@ -64,7 +64,7 @@ The application returned a JSON response confirming that it was running successf
 
 ### Screenshot 4 – Live Application
 
-![Live Application](screenshots/04-live-application.png)
+![Live Application](04-live-application.png)
 
 ## Conclusion
 
